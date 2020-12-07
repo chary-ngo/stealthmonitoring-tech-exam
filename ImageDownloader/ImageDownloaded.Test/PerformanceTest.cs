@@ -6,7 +6,7 @@ using Xunit;
 
 namespace ImageDownloaded.Test
 {
-    public class UnitTest1
+    public class PerformanceTest
     {
         [Fact]
         public void RequestTime_LessThan20Images()
